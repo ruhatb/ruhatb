@@ -4,9 +4,8 @@
 
 - 📫 How to reach me **ruhatbastu93@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ruhat-ba%C5%9Ftu-a6135321a/](https://www.linkedin.com/in/ruhat-ba%C5%9Ftu-a6135321a/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/ruhat-ba%C5%9Ftu-a6135321a/)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
