@@ -1,5 +1,6 @@
 
-<h1 align="center">Hey👋 , I am Ruhat</h1>
+<h1 align="center">  ![image](https://github.com/ruhatb/ruhatb/assets/121804929/12140a20-8a1f-41ac-b2f6-d6282b5bd438)
+, I am Ruhat</h1>
 <h3 align="center">A passionate frontend developer from Turkey s a successful frontend developer, I utilize my skills to create user-friendly and impressive web experiences. I am proficient in modern web technologies and can skillfully use HTML, CSS, and JavaScript; additionally React and Node.js. I am a team player, quick problem solver, and always open to continuous learning.</h3>
 
 - 📫 How to reach me **ruhatbastu93@gmail.com**
