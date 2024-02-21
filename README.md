@@ -4,7 +4,7 @@
  I am Ruhat</h1>
 <h3 align="center">A passionate frontend developer from Turkey s a successful frontend developer, I utilize my skills to create user-friendly and impressive web experiences. I am proficient in modern web technologies and can skillfully use HTML, CSS, and JavaScript; additionally React, Node.js and JAVA. I am a team player, quick problem solver, and always open to continuous learning.</h3>
 
-- 📫 How to reach me **ruhatbastu93@gmail.com**
+- 📫 How to reach me **r.uhat@yahoo.com.tr**
 
 - 📄 Know about my experiences (https://www.linkedin.com/in/ruhat-ba%C5%9Ftu-a6135321a/)
 
