@@ -1,4 +1,5 @@
 🌐 Contact
+<br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ruhat-ba%C5%9Ftu-a6135321a/) 
 <h3> Mail </h3>
 <p>r.uhat@yahoo.com.tr</p>
