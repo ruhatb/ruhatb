@@ -10,9 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhatb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruhatb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://https://github.com/ruhatb?tab=repositories)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ruhatb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
