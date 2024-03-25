@@ -16,4 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhatb&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-[![Top Contributed Repo](https://https://github.com/ruhatb?tab=repositories)
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=ruhatb&repo=my-repo-name&theme=dark)](https://github.com/ruhatb?tab=repositories)
